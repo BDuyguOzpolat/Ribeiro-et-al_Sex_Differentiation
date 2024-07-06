@@ -1,13 +1,14 @@
 This repository contains all the codes and other documents related to the manuscript Ribeiro et al 2024.
 
-R CODES and ASSOCIATED SPREADSHEETS
-(To be added)  Consider: Speadsheets (.csv files), associated R codes, and relevant figures are summarized in the word document called "Description of Supplementary csv Files"
+R CODES, DATA ANALYSIS INPUT AND OUTPUTS
+(To be added)  Consider: Speadsheets (.csv, .xlsx files), associated R codes, and relevant figures are summarized in the word document called "Description of Supplementary Files"
 
 PROTOCOLS
 (Link to HCR protocol) 
 
 SEQUENCING DATA
-(enter info)
+RNAseq raw reads are available under XXXX (SRA/NCBI)
+Gene sequences (mRNA) are available under XXXX (GENBANK/ NCBI)
 
 IMAGING DATA ORIGINAL TIFF FILES
 We uploaded all the original files from imaging to Zenodo: https://doi.org/10.5281/zenodo.11619572.
