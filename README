@@ -1,18 +1,25 @@
 This repository contains all the codes and other documents related to the manuscript Ribeiro et al 2024.
 
-R CODES, DATA ANALYSIS INPUT AND OUTPUTS
-(To be added)  Consider: Speadsheets (.csv, .xlsx files), associated R codes, and relevant figures are summarized in the word document called "Description of Supplementary Files"
-
 PROTOCOLS
-(Link to HCR protocol) 
+Compressed file 1: (Link to HCR protocol) 
+
+R CODES, DATA ANALYSIS INPUT AND OUTPUTS
+Compressed files 2-4: 
+2.Experiments_log		
+3.RNAseq_analysis_dataset
+4.RT-PCR_data
+5.Sex_ratio_data
+Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx format are combined into compressed files. Each compressed file includes a .txt file titled "Description of Files," which explains their contents.
+
+ADDITIONAL ASSOCIATED DATA
 
 SEQUENCING DATA
 RNAseq raw reads are available under XXXX (SRA/NCBI)
 Gene sequences (mRNA) are available under XXXX (GENBANK/ NCBI)
 
 IMAGING DATA ORIGINAL TIFF FILES
-We uploaded all the original files from imaging to Zenodo: https://doi.org/10.5281/zenodo.11619572.
-Information on hairpins and probesets used for in HCR situ hybridizations has also been added to the Zenodo repository alongside the imaging data
+We have uploaded all the original imaging files to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
+Information on the hairpins and probe sets used for HCR in situ hybridizations has also been added to the Zenodo repository alongside the imaging data.
 
 
 
