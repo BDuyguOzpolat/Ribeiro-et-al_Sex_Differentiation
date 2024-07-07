@@ -1,14 +1,15 @@
 This repository contains all the codes and other documents related to the manuscript Ribeiro et al 2024.
 
 PROTOCOLS
-Compressed file 1: (Link to HCR protocol) 
+Compressed file 1: 
+1.Protocols (Link to HCR protocol) 
 
 R CODES, DATA ANALYSIS INPUT AND OUTPUTS
-Compressed files 2-4: 
-2.Experiments_log		
-3.RNAseq_analysis_dataset
-4.RT-PCR_data
-5.Sex_ratio_data
+Compressed files 2-4:
+2.Experiments_log 	(link)	
+3.RNAseq_analysis_dataset (link)
+4.RT-PCR_data (link)
+5.Sex_ratio_data (link)
 Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx format are combined into compressed files. Each compressed file includes a .txt file titled "Description of Files," which explains their contents.
 
 ADDITIONAL ASSOCIATED DATA
