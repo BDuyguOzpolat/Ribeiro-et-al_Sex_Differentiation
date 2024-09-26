@@ -17,9 +17,10 @@ SEQUENCING DATA
 RNAseq raw reads are available under XXXX (SRA/NCBI)
 Gene sequences (mRNA) are available under XXXX (GENBANK/ NCBI)
 
-IMAGING DATA ORIGINAL TIFF FILES
-We have uploaded all the original imaging files to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
+IMAGING DATA AND TRANSCRIPTOME ASSEMBLIES
+We have uploaded transcriptome assemblies and the original imaging files to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
 Information on the hairpins and probe sets used for HCR in situ hybridizations has also been added to the Zenodo repository alongside the imaging data.
+
 
 
 
