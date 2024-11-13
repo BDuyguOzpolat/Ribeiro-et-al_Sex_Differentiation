@@ -7,10 +7,9 @@ R CODES, DATA ANALYSIS INPUT AND OUTPUTS
 Compressed files 2-4:
 "1.Protocols" (link)
 "2.Experiments_log.zip" 	(link)	
-"3.RT-PCR_data.zip" (link)
-"4.Sex_ratio_data.zip" (link)
-"5.HCR_odds_ratio" (link)
-"6.HCR_design" (link)
+"3.Sex_ratio_data.zip" (link)
+"4.HCR_odds_ratio" (link)
+"5.HCR_design" (link)
 
 Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx, .txt, .csv formats are combined into compressed files.
 
@@ -24,3 +23,5 @@ IMAGING DATA AND TRANSCRIPTOME ANALYSES
 Because limited storage, the data for transcriptome assemblies, differential expression analyses, RT-PCR and qPCR results, as well as the original imaging files, have been uploaded to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
 
 Information on the hairpins and probe sets used for HCR in situ hybridizations has been added to a specific folder "HCR design".
+
+RT- and qPCR oligonucleotides designed for this research have been included in the protocol for RT-PCRs under "1.Protocols".
