@@ -1,15 +1,18 @@
-This repository contains all the codes and other documents related to the manuscript Ribeiro et al 2024.
+This repository contains codes and other documents related to the manuscript Ribeiro et al 2024.
 
 PROTOCOLS
 Compressed file "1.Protocols.zip" (Link to HCR protocol) 
 
 R CODES, DATA ANALYSIS INPUT AND OUTPUTS
 Compressed files 2-4:
+"1.Protocols" (link)
 "2.Experiments_log.zip" 	(link)	
-"3.RNAseq_analysis_dataset.zip" (link)
-"4.RT-PCR_data.zip" (link)
-"5.Sex_ratio_data.zip" (link)
-Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx format are combined into compressed files. Each compressed file includes a .txt file titled "Description of Files," which explains their contents.
+"3.RT-PCR_data.zip" (link)
+"4.Sex_ratio_data.zip" (link)
+"5.HCR_odds_ratio" (link)
+"6.HCR_design" (link)
+
+Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx, .txt, .csv formats are combined into compressed files.
 
 ADDITIONAL ASSOCIATED DATA
 
@@ -17,10 +20,7 @@ SEQUENCING DATA
 RNAseq raw reads are available under XXXX (SRA/NCBI)
 Gene sequences (mRNA) are available under XXXX (GENBANK/ NCBI)
 
-IMAGING DATA AND TRANSCRIPTOME ASSEMBLIES
-We have uploaded transcriptome assemblies and the original imaging files to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
-Information on the hairpins and probe sets used for HCR in situ hybridizations has also been added to the Zenodo repository alongside the imaging data.
+IMAGING DATA AND TRANSCRIPTOME ANALYSES
+Because limited storage, the data for transcriptome assemblies, differential expression analyses, RT-PCR and qPCR results, as well as the original imaging files, have been uploaded to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
 
-
-
-
+Information on the hairpins and probe sets used for HCR in situ hybridizations has been added to a specific folder "HCR design".
