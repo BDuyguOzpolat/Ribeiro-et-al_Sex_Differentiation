@@ -1,14 +1,14 @@
 This repository contains codes and other documents related to the manuscript Ribeiro et al 2024.
 
 PROTOCOLS
-Compressed file "1.Protocols.zip" (Link to HCR protocol) 
+Compressed file "1.Protocols.zip" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/1.Protocols.zip) 
 
 R CODES, DATA ANALYSIS INPUT AND OUTPUTS
-Compressed files 2-4:
-"1.Protocols" (link)
-"2.Experiments_log.zip" 	(link)	
-"3.Sex_ratio_data.zip" (link)
-"4.HCR_odds_ratio" (link)
+Compressed files 2-5:
+"2.Experiments_log.zip" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/2.Experiments_log.zip)
+"3.Sex_ratio_data.zip" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/3.Sex_ratio_data.zip)
+"4.HCR_odds_ratio" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/4.HCR_odds_ratio.zip)
+"5.Gene-name-accountability.xlsx" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/5.Gene-name-accountability.xlsx)
 
 Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx, .txt, .csv formats are combined into compressed files.
 
