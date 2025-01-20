@@ -15,8 +15,8 @@ Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized r
 ADDITIONAL ASSOCIATED DATA
 
 SEQUENCING DATA
-RNAseq raw reads are available under XXXX (SRA/NCBI)
-Gene sequences (mRNA) are available under XXXX (GENBANK/ NCBI)
+RNAseq raw reads are available under Bioproject PRJNA1166191, SAMN43960593-SAMN43960622 (SRA/NCBI)
+Gene sequences (mRNA) are available under PQ760176-PQ760177 and PQ758375-PQ758379 (GENBANK/ NCBI)
 
 IMAGING DATA AND TRANSCRIPTOME ANALYSES
 Because limited storage, the data for transcriptome assemblies, differential expression analyses, RT-PCR and qPCR results, as well as the original imaging files, have been uploaded to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
