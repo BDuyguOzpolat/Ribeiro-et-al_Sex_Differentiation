@@ -8,7 +8,8 @@ Compressed files 2-5:
 "2.Experiments_log.zip" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/2.Experiments_log.zip)
 "3.Sex_ratio_data.zip" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/3.Sex_ratio_data.zip)
 "4.HCR_odds_ratio" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/4.HCR_odds_ratio.zip)
-"5.Gene-name-accountability.xlsx" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/5.Gene-name-accountability.xlsx)
+"5.DE_genes_heatmap.zip" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/5.DE_genes_heatmap.zip)
+"6.Gene-name-accountability.xlsx" (https://github.com/BDuyguOzpolat/Ribeiro-et-al_Sex_Differentiation/blob/main/5.Gene-name-accountability.xlsx)
 
 Consider: Spreadsheets (.csv, .xlsx files), associated R codes, and summarized results in .pptx, .txt, .csv formats are combined into compressed files.
 
@@ -20,7 +21,5 @@ Gene sequences (mRNA) are available under PQ760176-PQ760177 and PQ758375-PQ75837
 
 IMAGING DATA AND TRANSCRIPTOME ANALYSES
 Because limited storage, the data for transcriptome assemblies, differential expression analyses, RT-PCR and qPCR results, as well as the original imaging files, have been uploaded to Zenodo: https://doi.org/10.5281/zenodo.11619572. 
-
 Information on the hairpins and probe sets used for HCR in situ hybridizations has been added to a specific folder "./HCR_protocol/HCR_probe_design" in "1.Protocols".
-
 RT- and qPCR oligonucleotides designed for this research are presented in a file "./RT-PCR_protocol/primers-RT-PCR" under "1.Protocols".
